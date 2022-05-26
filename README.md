@@ -9,7 +9,7 @@
   
   <a href="mailto:mustafa.ali.kagan@gmail.com" target="_blank" rel="nofollow"><img alt="Kagan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   
-  ## 🛠 Technologies & Tools 
+ ## 🛠 Technologies & Tools 
 <div> 
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></img> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
