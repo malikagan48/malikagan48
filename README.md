@@ -23,3 +23,7 @@
 <img alt="TypeScript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 </div>
 <img style='margin-top:30px' src="https://github-readme-stats.vercel.app/api?username=malikagan48&show_icons=true">
+<details>
+<summary>:bulb: Most Used  Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikagan48&layout=compact">
+</details>
