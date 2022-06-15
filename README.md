@@ -1,8 +1,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/malikagan48?style=social)](https://github.com/malikagan48?tab=followers) 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=malikagan48.visitor-badge)](https://GitHub.com/malikagan48/StrapDown.js/stargazers/) 
-# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 
-<p> Hi, I'm kagan. I'm a senior student of software engineering. I'm currently intern at softtech. <br />
+<p> Hi, I'm kagan. I'm a senior student of software engineering. I worked as an intern at Softtech and Uzman Crm Companies.
+During my 5 months internship at Softtech company, I used vue.js for frontend development. I progressed with .net language in backend services. <br />
   
 ### Contact with me via these platforms! 
   <a href="https://www.linkedin.com/in/mustafaalikagankucuk/" target="_blank" rel="nofollow"><img alt="Kagan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
