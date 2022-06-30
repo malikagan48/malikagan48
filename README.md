@@ -1,8 +1,11 @@
 <br>
-[![](https://img.shields.io/github/followers/malikagan48?logoColor=blue&style=social)
+
+![](https://img.shields.io/github/followers/malikagan48?logoColor=blue&style=social)
+![](https://komarev.com/ghpvc/?username=malikagan48&style=flat-square)
 ![](https://img.shields.io/github/stars/malikagan48?logoColor=blue&style=social)
-![](https://img.shields.io/github/followers/malikagan48?label=malikagan48&logoColor=blue&style=social)]
+
 <br>
+
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
 
 <p> Hi, I'm kagan. I'm a senior student of software engineering. I worked as an intern at Softtech and Uzman Crm Companies.
