@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/followers/malikagan48?logoColor=blue&style=social)
 ![](https://komarev.com/ghpvc/?username=malikagan48&style=flat-square)
 ![](https://img.shields.io/github/stars/malikagan48?logoColor=blue&style=social)
-
+<a href="https://malikagan48.github.io/MustafaAliKaganKUCUK.github.io/" target="_blank">Check my website!</a>
 <br>
 
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
