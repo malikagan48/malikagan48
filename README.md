@@ -11,6 +11,7 @@
 <p> Hi, I'm kagan. I'm a senior student of software engineering. I worked as an intern at Softtech and Uzman Crm Companies.
 During my 5 months internship at Softtech company, I used vue.js for frontend development. I progressed with .net language in backend services. <br />
 <p><a href="https://malikagan48.github.io/MustafaAliKaganKUCUK.github.io/" target="_blank">Check my website!</a>
+  
 ### Contact with me via these platforms! 
   <a href="https://www.linkedin.com/in/mustafaalikagankucuk/" target="_blank" rel="nofollow"><img alt="Kagan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   
