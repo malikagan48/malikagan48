@@ -8,7 +8,7 @@
 
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
 
-<p> Hi, I'm Kağan. Hi , I'm Kağan. I am a newly graduated software engineer.I worked as an intern at Softtech and Uzman Crm Companies.
+<p> Hi, I'm Kağan.I am a newly graduated software engineer.I worked as an intern at Softtech and Uzman Crm Companies.
 During my 5 months internship at Softtech company, I used vue.js for frontend development. I progressed with .net language in backend services. <br />
 <p><a href="https://malikagan48.github.io/Portfolio/" target="_blank">Check my website!</a>
   
