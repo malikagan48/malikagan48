@@ -9,8 +9,11 @@
 
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
 
-<p> Hi, I'm Kağan.I am a newly graduated software engineer.I worked as an intern at Softtech and Uzman Crm Companies.
-During my 5 months internship at Softtech company, I used vue.js for frontend development. I progressed with .net language in backend services. <br />
+<p> I graduated from the software engineering department at Fırat University. Patika.dev and Arvato Supply Chain Solutions I
+participated in the .net bootcamp organized by companies. I am currently working as a Test Engineer at Vodafone and Magis
+companies. I am interested in web application development. The software languages that I use in my career and try to
+improve myself are Asp.NET MVC, .NET CORE, C#, mssql, PostgreSQL, Golang. I am developing an application as a Backend
+Developer I'm doing tests on Vodafone tariffs and the usability of their products. I was involved in a project within Vodafone. I am reporting on the applications I have used on the project, siebel, simple sql, jira and excel. <br />
 <p><a href="https://malikagan48.github.io/Portfolio/" target="_blank">Check my website!</a>
   
 ### Contact with me via these platforms! 
