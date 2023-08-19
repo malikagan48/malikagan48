@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/stars/malikagan48?logoColor=blue&style=social)
 
 <br>
-<img src="https://github.com/malikagan48/malikagan48/blob/main/1672643915463.jpg" />
+<img src="https://github.com/malikagan48/malikagan48/blob/main/Mustafa Ali Kağan Küçük (1).png" />
 
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
 
